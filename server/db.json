@@ -1,3 +1,47 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Let's do it.",
+      "id": 1
+    },
+    {
+      "title": "Self Created Stream",
+      "description": "This is created by my own",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "105986054165818477616"
+      },
+      "id": 2
+    },
+    {
+      "title": "Belongs to me",
+      "description": "This can only edit by me. I have edited this.",
+      "id": 3
+    },
+    {
+      "title": "Second one. Edited now.",
+      "description": "The second stream",
+      "userId": "105986054165818477616",
+      "id": 4
+    },
+    {
+      "title": "After creating my own history router",
+      "description": "Feels awesome!",
+      "userId": "105986054165818477616",
+      "id": 5
+    },
+    {
+      "title": "After updating route",
+      "description": "See if it works fine",
+      "userId": "105986054165818477616",
+      "id": 6
+    },
+    {
+      "title": "After refactoring",
+      "description": "Hope it works just fine.",
+      "userId": "105986054165818477616",
+      "id": 7
+    }
+  ]
 }
