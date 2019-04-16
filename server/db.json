@@ -30,18 +30,6 @@
       "description": "Feels awesome!",
       "userId": "105986054165818477616",
       "id": 5
-    },
-    {
-      "title": "After updating route",
-      "description": "See if it works fine",
-      "userId": "105986054165818477616",
-      "id": 6
-    },
-    {
-      "title": "After refactoring",
-      "description": "Hope it works just fine.",
-      "userId": "105986054165818477616",
-      "id": 7
     }
   ]
 }
